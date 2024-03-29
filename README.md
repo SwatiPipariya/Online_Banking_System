@@ -22,7 +22,7 @@ This project is a simple banking system implemented in Java using Hibernate with
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/SwatiPipariya/Online_Banking_System`
 2. Import the project into your preferred IDE.
 3. Ensure you have MySQL installed and running.
 4. Create a MySQL database named `banking_system`.
